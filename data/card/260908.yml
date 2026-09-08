@@ -5,7 +5,7 @@ about:
   head: 009ba68
   archived: false
   latestVersion: "v0.6.3"
-  collectedAt: 2026-09-08T02:55:31Z
+  collectedAt: 2026-09-08T05:45:17Z
 timeline:
   created: 2018-09-17
   lastCommit: 2026-09-07
@@ -80,7 +80,7 @@ total:
   commit: 212
 ---
 path: /home/runner/.x-repo/github.com/pulumi/kubespy
-collectedAt: 2026-09-08T02:55:32Z
+collectedAt: 2026-09-08T05:45:18Z
 loc:
   Go:
     code: 1134
