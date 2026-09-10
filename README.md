@@ -12,36 +12,7 @@ Tools for observing Kubernetes resources in real time, powered by Pulumi.
 x install kubespy
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/pulumi/kubespy>
-- **Homepage**: <https://pulumi.com/>
-- **License**: Apache-2.0
-
-## Release
-
-- **Latest**: `v0.6.3` (2024-04-09)
-- **Last commit**: 2026-09-09
-- **Assets in release**: 7
-- **Published**: 2024-04-09T16:56:04Z
-
-## Popularity
-
-- **Stars**: 3,083 · **Forks**: 93 · **Open issues**: 54 · **Contributors**: 38
-
-## Totals (cumulative)
-
-- **Releases**: 8 · **Merged PRs**: 185 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 13 · **Commits**: 214
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 8 | 0 | 0 | 0 | 10 |
-| 90d | 2026-06-12 | 0 | 8 | 0 | 1 | 0 | 10 |
-| 360d | 2025-09-15 | 0 | 69 | 0 | 3 | 0 | 67 |
-
-## Code size
+## Code insight
 
 Total: **1,272** lines of code across **24** files in the top 5 languages.
 
@@ -63,13 +34,66 @@ Lowest-scoring checks:
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
 
+## Source
+
+- **Upstream**: <https://github.com/pulumi/kubespy>
+- **Homepage**: <https://pulumi.com/>
+- **License**: Apache-2.0
+
+## Release
+
+- **Latest**: `v0.6.3` (2024-04-09)
+- **Last commit**: 2026-09-10
+- **Assets in release**: 7
+
+## Popularity
+
+- **Stars**: 3,083 · **Forks**: 93 · **Open issues**: 54 · **Contributors**: 38
+
+## Totals (cumulative)
+
+- **Releases**: 8 · **Merged PRs**: 187 · **Open PRs**: 2 · **Closed issues**: 41 · **Open issues**: 13 · **Commits**: 216
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 10 | 1 | 0 | 0 | 12 |
+| last60d | 2026-07-12 | 0 | 10 | 1 | 1 | 0 | 12 |
+| 90d | 2026-06-12 | 0 | 10 | 1 | 1 | 0 | 12 |
+| last180d | 2026-03-14 | 0 | 13 | 1 | 2 | 0 | 14 |
+| 360d | 2025-09-15 | 0 | 71 | 1 | 3 | 0 | 69 |
+| last720d | 2024-09-20 | 0 | 139 | 2 | 5 | 4 | 139 |
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/pulumi/kubespy/releases/download/v0.6.3/checksums.txt) | 606 B | `other` |
+| [kubespy-v0.6.3-darwin-amd64.tar.gz](https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-darwin-amd64.tar.gz) | 26.2 MiB | `native/darwin/x64` |
+| [kubespy-v0.6.3-darwin-arm64.tar.gz](https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-darwin-arm64.tar.gz) | 25.2 MiB | `native/darwin/arm64` |
+| [kubespy-v0.6.3-linux-amd64.tar.gz](https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-linux-amd64.tar.gz) | 26.5 MiB | `native/linux/x64` |
+| [kubespy-v0.6.3-linux-arm64.tar.gz](https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-linux-arm64.tar.gz) | 24.6 MiB | `native/linux/arm64` |
+| [kubespy-v0.6.3-windows-amd64.tar.gz](https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-windows-amd64.tar.gz) | 26.8 MiB | `native/win/x64` |
+| [kubespy-v0.6.3-windows-arm64.tar.gz](https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-windows-arm64.tar.gz) | 24.9 MiB | `native/win/arm64` |
+
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/kubespy). **11** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.6.3` | ✅ latest |
+| Nix unstable | `0.6.3` | ✅ latest |
+| openSUSE Tumbleweed | `0.6.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubespy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/kubespy.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/kubespy.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:57:06Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:36:20Z._
