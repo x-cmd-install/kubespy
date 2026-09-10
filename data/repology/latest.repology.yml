@@ -1,0 +1,131 @@
+- repo: nix_unstable
+  srcname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: Tool to observe Kubernetes resources in real time
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: kubespy
+  binname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: 0.6.3-1
+  status: newest
+  summary: Tools for observing Kubernetes resources in real time
+  maintainers:
+    - dutraxyz@aur
+  licenses:
+    - Apache
+- repo: homebrew
+  srcname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: Tools for observing Kubernetes resources in realtime
+- repo: homebrew
+  srcname: kubespy
+  visiblename: kubespy
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Tools for observing Kubernetes resources in realtime
+- repo: macports
+  srcname: sysutils/kubespy
+  binname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: Tools for observing Kubernetes resources in real time
+  maintainers:
+    - herbygillot@github
+  licenses:
+    - Apache-2
+  categories:
+    - sysutils
+- repo: nix_stable_24_05
+  srcname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: A tool to observe Kubernetes resources in real time
+  maintainers:
+    - dar@xoe.solutions
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: Tool to observe Kubernetes resources in real time
+  maintainers:
+    - dar@xoe.solutions
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: Tool to observe Kubernetes resources in real time
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: Tool to observe Kubernetes resources in real time
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: null
+  status: newest
+  summary: Tool to observe Kubernetes resources in real time
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: kubespy
+  binnames:
+    - kubespy
+    - kubespy-debuginfo
+    - kubespy-debugsource
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: 0.6.3-1.9
+  status: newest
+  summary: Tools for observing Kubernetes resources in real time, powered by Pulumi
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
+- repo: scoop
+  subrepo: extras
+  binname: kubespy
+  visiblename: kubespy
+  version: 0.6.3
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
