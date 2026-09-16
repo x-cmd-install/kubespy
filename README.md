@@ -26,7 +26,7 @@ Total: **1,272** lines of code across **24** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.2 / 10**
+Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 190 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 13 · **Commits**: 219
+- **Releases**: 8 · **Merged PRs**: 191 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 13 · **Commits**: 220
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 13 | 0 | 0 | 0 | 15 |
-| last60d | 2026-07-17 | 0 | 13 | 0 | 0 | 0 | 15 |
-| 90d | 2026-06-17 | 0 | 13 | 0 | 1 | 0 | 15 |
-| last180d | 2026-03-19 | 0 | 15 | 0 | 2 | 0 | 16 |
-| 360d | 2025-09-20 | 0 | 71 | 0 | 3 | 0 | 71 |
-| last720d | 2024-09-25 | 0 | 142 | 1 | 5 | 4 | 142 |
+| 30d | 2026-08-17 | 0 | 14 | 0 | 0 | 0 | 16 |
+| last60d | 2026-07-18 | 0 | 14 | 0 | 0 | 0 | 16 |
+| 90d | 2026-06-18 | 0 | 14 | 0 | 1 | 0 | 16 |
+| last180d | 2026-03-20 | 0 | 16 | 0 | 2 | 0 | 17 |
+| 360d | 2025-09-21 | 0 | 72 | 0 | 3 | 0 | 72 |
+| last720d | 2024-09-26 | 0 | 143 | 1 | 5 | 4 | 143 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:23:56Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:12:03Z._
