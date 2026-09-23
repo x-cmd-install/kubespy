@@ -4,7 +4,7 @@
 
 Tools for observing Kubernetes resources in real time, powered by Pulumi.
 
-[![x-cmd/install — kubespy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubespy.svg)](https://x-cmd.com/install/kubespy)
+[![x-cmd/install — kubespy Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kubespy.svg)](https://x-cmd.com/install/kubespy)
 
 ## Install
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.3` (2024-04-09)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-23
 - **Assets in release**: 7
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 195 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 13 · **Commits**: 224
+- **Releases**: 8 · **Merged PRs**: 197 · **Open PRs**: 1 · **Closed issues**: 41 · **Open issues**: 13 · **Commits**: 226
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 18 | 0 | 0 | 0 | 20 |
-| last60d | 2026-07-24 | 0 | 18 | 0 | 0 | 0 | 20 |
-| 90d | 2026-06-24 | 0 | 18 | 0 | 1 | 0 | 20 |
-| last180d | 2026-03-26 | 0 | 20 | 0 | 1 | 0 | 20 |
-| 360d | 2025-09-27 | 0 | 74 | 0 | 3 | 0 | 74 |
-| last720d | 2024-10-02 | 0 | 147 | 1 | 5 | 4 | 147 |
+| 30d | 2026-08-24 | 0 | 20 | 0 | 0 | 0 | 22 |
+| last60d | 2026-07-25 | 0 | 20 | 0 | 0 | 0 | 22 |
+| 90d | 2026-06-25 | 0 | 20 | 0 | 1 | 0 | 22 |
+| last180d | 2026-03-27 | 0 | 22 | 0 | 1 | 0 | 22 |
+| 360d | 2025-09-28 | 0 | 76 | 0 | 3 | 0 | 76 |
+| last720d | 2024-10-03 | 0 | 149 | 1 | 5 | 4 | 149 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:16:19Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:18:56Z._
