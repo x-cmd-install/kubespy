@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 31 | 0 | 0 | 0 | 26 |
-| last60d | 2026-08-07 | 0 | 37 | 0 | 0 | 0 | 39 |
-| 90d | 2026-07-08 | 0 | 37 | 0 | 1 | 0 | 39 |
-| last180d | 2026-04-09 | 0 | 38 | 0 | 1 | 0 | 39 |
-| 360d | 2025-10-11 | 0 | 91 | 0 | 3 | 0 | 91 |
-| last720d | 2024-10-16 | 0 | 166 | 1 | 5 | 4 | 166 |
+| 30d | 2026-09-07 | 0 | 31 | 0 | 0 | 0 | 26 |
+| last60d | 2026-08-08 | 0 | 37 | 0 | 0 | 0 | 39 |
+| 90d | 2026-07-09 | 0 | 37 | 0 | 1 | 0 | 39 |
+| last180d | 2026-04-10 | 0 | 38 | 0 | 1 | 0 | 39 |
+| 360d | 2025-10-12 | 0 | 91 | 0 | 3 | 0 | 91 |
+| last720d | 2024-10-17 | 0 | 166 | 1 | 5 | 4 | 166 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:24:57Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:52:35Z._
