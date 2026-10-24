@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 606,
       "digest": null,
-      "download_count": 466,
+      "download_count": 470,
       "created_at": "2024-04-09T16:56:03Z",
       "updated_at": "2024-04-09T16:56:03Z",
       "browser_download_url": "https://github.com/pulumi/kubespy/releases/download/v0.6.3/checksums.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 26382516,
       "digest": null,
-      "download_count": 269,
+      "download_count": 270,
       "created_at": "2024-04-09T16:56:01Z",
       "updated_at": "2024-04-09T16:56:02Z",
       "browser_download_url": "https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 27778615,
       "digest": null,
-      "download_count": 2273,
+      "download_count": 2277,
       "created_at": "2024-04-09T16:56:02Z",
       "updated_at": "2024-04-09T16:56:03Z",
       "browser_download_url": "https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 25796455,
       "digest": null,
-      "download_count": 387,
+      "download_count": 388,
       "created_at": "2024-04-09T16:56:02Z",
       "updated_at": "2024-04-09T16:56:03Z",
       "browser_download_url": "https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-linux-arm64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 28064130,
       "digest": null,
-      "download_count": 206,
+      "download_count": 209,
       "created_at": "2024-04-09T16:56:01Z",
       "updated_at": "2024-04-09T16:56:02Z",
       "browser_download_url": "https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-windows-amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 26084611,
       "digest": null,
-      "download_count": 88,
+      "download_count": 89,
       "created_at": "2024-04-09T16:56:01Z",
       "updated_at": "2024-04-09T16:56:02Z",
       "browser_download_url": "https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-windows-arm64.tar.gz"
