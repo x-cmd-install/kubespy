@@ -24,16 +24,6 @@ x install kubespy
 | Makefile | 12 | 0 | 6 | 1 |
 | TypeScript | 4 | 4 | 4 | 2 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.6 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/pulumi/kubespy>
@@ -43,7 +33,7 @@ x install kubespy
 ## 发布
 
 - **最新版本**: `v0.6.3` (2024-04-09)
-- **最近提交**: 2026-10-28
+- **最近提交**: 2026-10-29
 - **Release 含资产**: 7 个
 
 ## 流行度
@@ -52,18 +42,18 @@ x install kubespy
 
 ## 累计统计
 
-- **发布数**: 8 · **已合并 PR**: 244 · **开放 PR**: 1 · **已关闭 issue**: 42 · **开放 issue**: 13 · **提交数**: 273
+- **发布数**: 8 · **已合并 PR**: 248 · **开放 PR**: 1 · **已关闭 issue**: 42 · **开放 issue**: 13 · **提交数**: 277
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 35 | 0 | 1 | 0 | 31 |
-| last60d | 2026-08-29 | 0 | 66 | 0 | 1 | 0 | 65 |
-| 90d | 2026-07-30 | 0 | 67 | 0 | 1 | 0 | 69 |
-| last180d | 2026-05-01 | 0 | 68 | 0 | 2 | 0 | 69 |
-| 360d | 2025-11-02 | 0 | 112 | 0 | 4 | 0 | 109 |
-| last720d | 2024-11-07 | 0 | 196 | 1 | 6 | 4 | 196 |
+| 30d | 2026-09-29 | 0 | 39 | 0 | 1 | 0 | 35 |
+| last60d | 2026-08-30 | 0 | 70 | 0 | 1 | 0 | 69 |
+| 90d | 2026-07-31 | 0 | 71 | 0 | 1 | 0 | 73 |
+| last180d | 2026-05-02 | 0 | 72 | 0 | 2 | 0 | 73 |
+| 360d | 2025-11-03 | 0 | 116 | 0 | 4 | 0 | 113 |
+| last720d | 2024-11-08 | 0 | 200 | 1 | 6 | 4 | 200 |
 
 ## Release 资产
 
@@ -96,4 +86,4 @@ kubespy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T06:38:10Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T06:49:47Z._

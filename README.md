@@ -24,16 +24,6 @@ Total: **1,272** lines of code across **24** files in the top 5 languages.
 | Makefile | 12 | 0 | 6 | 1 |
 | TypeScript | 4 | 4 | 4 | 2 |
 
-## OpenSSF Scorecard
-
-Overall score: **4.6 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
-
 ## Source
 
 - **Upstream**: <https://github.com/pulumi/kubespy>
@@ -43,7 +33,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.3` (2024-04-09)
-- **Last commit**: 2026-10-28
+- **Last commit**: 2026-10-29
 - **Assets in release**: 7
 
 ## Popularity
@@ -52,18 +42,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 244 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 273
+- **Releases**: 8 · **Merged PRs**: 248 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 277
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 35 | 0 | 1 | 0 | 31 |
-| last60d | 2026-08-29 | 0 | 66 | 0 | 1 | 0 | 65 |
-| 90d | 2026-07-30 | 0 | 67 | 0 | 1 | 0 | 69 |
-| last180d | 2026-05-01 | 0 | 68 | 0 | 2 | 0 | 69 |
-| 360d | 2025-11-02 | 0 | 112 | 0 | 4 | 0 | 109 |
-| last720d | 2024-11-07 | 0 | 196 | 1 | 6 | 4 | 196 |
+| 30d | 2026-09-29 | 0 | 39 | 0 | 1 | 0 | 35 |
+| last60d | 2026-08-30 | 0 | 70 | 0 | 1 | 0 | 69 |
+| 90d | 2026-07-31 | 0 | 71 | 0 | 1 | 0 | 73 |
+| last180d | 2026-05-02 | 0 | 72 | 0 | 2 | 0 | 73 |
+| 360d | 2025-11-03 | 0 | 116 | 0 | 4 | 0 | 113 |
+| last720d | 2024-11-08 | 0 | 200 | 1 | 6 | 4 | 200 |
 
 ## Release assets
 
@@ -96,4 +86,4 @@ Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:38:10Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:49:47Z._
