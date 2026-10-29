@@ -1,0 +1,126 @@
+about:
+  description: "Tools for observing Kubernetes resources in real time, powered by Pulumi."
+  license: Apache-2.0
+  homepage: https://pulumi.com/
+  head: 04732a5
+  archived: false
+  latestVersion: "v0.6.3"
+  latestRelease: "v0.6.3"
+  latestPrerelease: ""
+  collectedAt: 2026-10-29T06:49:22Z
+timeline:
+  created: 2018-09-17
+  lastCommit: 2026-10-29
+  lastVersion: 2024-04-09
+  lastRelease: 2024-04-09
+  lastPrerelease: 
+popularity:
+  star: 3086
+  watcher: 50
+  fork: 93
+  release: 8
+  contributor: 38
+  pullRequest: 259
+  issue: 55
+language:
+  Go: 38965
+  Makefile: 261
+totalBytes: 39226
+recent:
+  last30d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 39
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 35
+  last60d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 70
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 69
+  last90d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 71
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 73
+  last180d:
+    since: 2026-05-02
+    release: 0
+    mergedPR: 72
+    openPR: 0
+    closedIssue: 2
+    openIssue: 0
+    commit: 73
+  last360d:
+    since: 2025-11-03
+    release: 0
+    mergedPR: 116
+    openPR: 0
+    closedIssue: 4
+    openIssue: 0
+    commit: 113
+  last720d:
+    since: 2024-11-08
+    release: 0
+    mergedPR: 200
+    openPR: 1
+    closedIssue: 6
+    openIssue: 4
+    commit: 200
+total:
+  release: 8
+  mergedPR: 248
+  openPR: 1
+  closedIssue: 42
+  openIssue: 13
+  commit: 277
+---
+path: /home/runner/.x-repo/github.com/pulumi/kubespy
+collectedAt: 2026-10-29T06:49:24Z
+loc:
+  Go:
+    code: 1134
+    comments: 56
+    blanks: 198
+    files: 13
+  Json:
+    code: 68
+    comments: 0
+    blanks: 0
+    files: 4
+  Yaml:
+    code: 54
+    comments: 0
+    blanks: 0
+    files: 4
+  Makefile:
+    code: 12
+    comments: 0
+    blanks: 6
+    files: 1
+  TypeScript:
+    code: 4
+    comments: 4
+    blanks: 4
+    files: 2
+  Markdown:
+    code: 0
+    comments: 189
+    blanks: 87
+    files: 6
+total:
+  code: 1273
+  comments: 249
+  blanks: 295
+  files: 30
+---
+
+---
