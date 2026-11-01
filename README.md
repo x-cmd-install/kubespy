@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,086 · **Forks**: 93 · **Open issues**: 55 · **Contributors**: 38
+- **Stars**: 3,085 · **Forks**: 93 · **Open issues**: 55 · **Contributors**: 38
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 0 | 37 | 1 | 1 | 0 | 37 |
-| last60d | 2026-09-01 | 0 | 69 | 1 | 1 | 0 | 71 |
-| 90d | 2026-08-02 | 0 | 73 | 1 | 1 | 0 | 75 |
-| last180d | 2026-05-04 | 0 | 74 | 1 | 2 | 0 | 75 |
-| 360d | 2025-11-05 | 0 | 114 | 1 | 4 | 0 | 115 |
-| last720d | 2024-11-10 | 0 | 202 | 2 | 6 | 4 | 202 |
+| 30d | 2026-10-02 | 0 | 37 | 1 | 1 | 0 | 32 |
+| last60d | 2026-09-02 | 0 | 69 | 1 | 1 | 0 | 66 |
+| 90d | 2026-08-03 | 0 | 73 | 1 | 1 | 0 | 75 |
+| last180d | 2026-05-05 | 0 | 74 | 1 | 2 | 0 | 75 |
+| 360d | 2025-11-06 | 0 | 113 | 1 | 4 | 0 | 111 |
+| last720d | 2024-11-11 | 0 | 202 | 2 | 6 | 4 | 202 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:38:58Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:06:16Z._
