@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.3` (2024-04-09)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 7
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 251 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 280
+- **Releases**: 8 · **Merged PRs**: 252 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 281
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 38 | 0 | 1 | 0 | 33 |
-| last60d | 2026-09-03 | 0 | 69 | 0 | 1 | 0 | 67 |
-| 90d | 2026-08-04 | 0 | 74 | 0 | 1 | 0 | 76 |
-| last180d | 2026-05-06 | 0 | 75 | 0 | 2 | 0 | 76 |
-| 360d | 2025-11-07 | 0 | 114 | 0 | 4 | 0 | 112 |
-| last720d | 2024-11-12 | 0 | 203 | 1 | 6 | 4 | 203 |
+| 30d | 2026-10-04 | 0 | 39 | 1 | 1 | 0 | 34 |
+| last60d | 2026-09-04 | 0 | 69 | 1 | 1 | 0 | 68 |
+| 90d | 2026-08-05 | 0 | 75 | 1 | 1 | 0 | 77 |
+| last180d | 2026-05-07 | 0 | 76 | 1 | 2 | 0 | 77 |
+| 360d | 2025-11-08 | 0 | 115 | 1 | 4 | 0 | 113 |
+| last720d | 2024-11-13 | 0 | 204 | 2 | 6 | 4 | 204 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:09:57Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:03:56Z._
