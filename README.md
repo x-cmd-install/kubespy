@@ -26,7 +26,7 @@ Total: **1,272** lines of code across **24** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.3` (2024-04-09)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-05
 - **Assets in release**: 7
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 254 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 283
+- **Releases**: 8 · **Merged PRs**: 256 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 285
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 40 | 0 | 1 | 0 | 36 |
-| last60d | 2026-09-05 | 0 | 71 | 0 | 1 | 0 | 70 |
-| 90d | 2026-08-06 | 0 | 77 | 0 | 1 | 0 | 79 |
-| last180d | 2026-05-08 | 0 | 78 | 0 | 2 | 0 | 79 |
-| 360d | 2025-11-09 | 0 | 117 | 0 | 4 | 0 | 115 |
-| last720d | 2024-11-14 | 0 | 206 | 1 | 6 | 4 | 206 |
+| 30d | 2026-10-06 | 0 | 42 | 0 | 1 | 0 | 38 |
+| last60d | 2026-09-06 | 0 | 73 | 0 | 1 | 0 | 72 |
+| 90d | 2026-08-07 | 0 | 79 | 0 | 1 | 0 | 81 |
+| last180d | 2026-05-09 | 0 | 80 | 0 | 2 | 0 | 81 |
+| 360d | 2025-11-10 | 0 | 119 | 0 | 4 | 0 | 117 |
+| last720d | 2024-11-15 | 0 | 208 | 1 | 6 | 4 | 208 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:27:05Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:41:13Z._
