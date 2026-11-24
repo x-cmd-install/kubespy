@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (-1/10) — Found no human activity in the last 30 changesets
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (2/10) — dependency not pinned by hash detected -- score normalized to 2
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.3` (2024-04-09)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 7
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 277 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 306
+- **Releases**: 8 · **Merged PRs**: 279 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 308
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 36 | 0 | 0 | 0 | 28 |
-| last60d | 2026-09-24 | 0 | 74 | 0 | 1 | 0 | 68 |
-| 90d | 2026-08-25 | 0 | 100 | 0 | 1 | 0 | 102 |
-| last180d | 2026-05-27 | 0 | 101 | 0 | 2 | 0 | 102 |
-| 360d | 2025-11-28 | 0 | 125 | 0 | 4 | 0 | 125 |
-| last720d | 2024-12-03 | 0 | 229 | 1 | 6 | 4 | 229 |
+| 30d | 2026-10-25 | 0 | 38 | 1 | 0 | 0 | 30 |
+| last60d | 2026-09-25 | 0 | 75 | 1 | 1 | 0 | 70 |
+| 90d | 2026-08-26 | 0 | 101 | 1 | 1 | 0 | 104 |
+| last180d | 2026-05-28 | 0 | 103 | 1 | 2 | 0 | 104 |
+| 360d | 2025-11-29 | 0 | 127 | 1 | 4 | 0 | 127 |
+| last720d | 2024-12-04 | 0 | 231 | 2 | 6 | 4 | 231 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:13:41Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:45:05Z._
