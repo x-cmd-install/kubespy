@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.6.3` (2024-04-09)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 - **Assets in release**: 7
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 279 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 308
+- **Releases**: 8 · **Merged PRs**: 281 · **Open PRs**: 1 · **Closed issues**: 42 · **Open issues**: 13 · **Commits**: 310
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 38 | 1 | 0 | 0 | 30 |
-| last60d | 2026-09-25 | 0 | 75 | 1 | 1 | 0 | 70 |
-| 90d | 2026-08-26 | 0 | 101 | 1 | 1 | 0 | 104 |
-| last180d | 2026-05-28 | 0 | 103 | 1 | 2 | 0 | 104 |
-| 360d | 2025-11-29 | 0 | 127 | 1 | 4 | 0 | 127 |
-| last720d | 2024-12-04 | 0 | 231 | 2 | 6 | 4 | 231 |
+| 30d | 2026-10-26 | 0 | 39 | 0 | 0 | 0 | 32 |
+| last60d | 2026-09-26 | 0 | 75 | 0 | 1 | 0 | 72 |
+| 90d | 2026-08-27 | 0 | 103 | 0 | 1 | 0 | 106 |
+| last180d | 2026-05-29 | 0 | 104 | 0 | 2 | 0 | 106 |
+| 360d | 2025-11-30 | 0 | 129 | 0 | 4 | 0 | 129 |
+| last720d | 2024-12-05 | 0 | 233 | 1 | 6 | 4 | 233 |
 
 ## Release assets
 
@@ -77,16 +77,6 @@ Lowest-scoring checks:
 | [kubespy-v0.6.3-windows-amd64.tar.gz](https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-windows-amd64.tar.gz) | 26.8 MiB | `native/win/x64` |
 | [kubespy-v0.6.3-windows-arm64.tar.gz](https://github.com/pulumi/kubespy/releases/download/v0.6.3/kubespy-v0.6.3-windows-arm64.tar.gz) | 24.9 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/kubespy). **11** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.6.3` | ✅ latest |
-| Nix unstable | `0.6.3` | ✅ latest |
-| openSUSE Tumbleweed | `0.6.3` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `kubespy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +86,4 @@ Install metadata for kubespy lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:45:05Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:25:51Z._
